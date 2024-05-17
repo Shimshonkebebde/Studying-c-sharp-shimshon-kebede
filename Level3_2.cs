@@ -1,5 +1,4 @@
-﻿using Studying_c_sharp_shimshon_kebede.project;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Studying_c_sharp_shimshon_kebede
 {
-    internal class Program
+    public class Level3_2
     {
-        static void Main(string[] args)
+        public static void RunMe()
         {
-            Level1.RunMe();
+            Console.WriteLine("Hi i'm class oop");
         }
     }
 }

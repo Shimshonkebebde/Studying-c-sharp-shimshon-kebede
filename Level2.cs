@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 
 namespace Studying_c_sharp_shimshon_kebede
 {
-    internal class Program
+    public class Level2
     {
-        static void Main(string[] args)
+        public static void RunMe()
         {
-            Level1.RunMe();
+           
+            Console.WriteLine("Hi i'm class oop Level2");
+            Level3_1.RunMe();
         }
     }
 }

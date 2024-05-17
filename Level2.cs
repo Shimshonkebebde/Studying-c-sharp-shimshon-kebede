@@ -14,6 +14,8 @@ namespace Studying_c_sharp_shimshon_kebede
            
             Console.WriteLine("Hi i'm class oop Level2");
             Level3_1.RunMe();
+            Level3_2.RunMe();
+
         }
     }
 }
